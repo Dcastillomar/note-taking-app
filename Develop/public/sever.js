@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get('/', (req, res) =>
-    res.sendFile(path.join(__dirname, '/public/index.html')) 
+    res.sendFile(path.join(__dirname, '/public/assets/index.js')) 
     );
 
 app.listen(PORT, () => console.log(`App listening on port ${PORT}`));
