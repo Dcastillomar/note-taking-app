@@ -42,4 +42,4 @@ heroku- https://mighty-lowlands-18862.herokuapp.com/notes
 
 github- https://github.com/Dcastillomar/note-taking-app
   
-![Alt text](../../OneDrive/Desktop/notes%20app.png)
+![Alt text](Assets/notes%20app.png)
