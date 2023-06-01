@@ -22,7 +22,8 @@
   The user is met with a home screen with a button which says lets get started. When clicked , the user is taking to a new page. Under the NOTES TITLE, the user inputs their desired text and under NOTE TEXT any description or details for the note. When these two fields are completed a new icon which looks like a floppy disk is shown in the upper right hand corner. The user clicks the icon to save the note. The notes are saved on the left hand side of the screen. Each note has a trash can icon to delete the note. When the trash can is selected the user will need to refresh the page to see the note gone.
 
   ## Contribution
-  Please contact me with any questions.
+  Jaytee Padilla- Tutor
+  Melissa Hookey- TA
 
   ## Questions
   Email- dcastillomar89@yahoo.com 
